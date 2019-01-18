@@ -1,7 +1,9 @@
+setup.py
 CliApp.egg-info/PKG-INFO
 CliApp.egg-info/SOURCES.txt
 CliApp.egg-info/dependency_links.txt
 CliApp.egg-info/entry_points.txt
+CliApp.egg-info/requires.txt
 CliApp.egg-info/top_level.txt
 app2/__init__.py
 app2/__main__.py

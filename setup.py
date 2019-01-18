@@ -10,7 +10,7 @@ setup (
 	test_suite="tests", # where to find tests
 	entry_points = {
 		'console_scripts': [
-			'convert = convert.__main__:main', # got to module convert.__main__ and run the method called main
+			'convert_num = convert_num.__main__:main', # got to module convert.__main__ and run the method called main
 			'app2 = app2.__main__:main'
 			]
 		}
