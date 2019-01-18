@@ -1,0 +1,4 @@
+[console_scripts]
+app2 = app2.__main__:main
+convert = convert.__main__:main
+

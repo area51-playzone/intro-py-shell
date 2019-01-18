@@ -1,0 +1,15 @@
+CliApp.egg-info/PKG-INFO
+CliApp.egg-info/SOURCES.txt
+CliApp.egg-info/dependency_links.txt
+CliApp.egg-info/entry_points.txt
+CliApp.egg-info/top_level.txt
+app2/__init__.py
+app2/__main__.py
+convert/__init__.py
+convert/__main__.py
+tests/__init__.py
+tests/app2-tests.py
+tests/convert-tests.py
+tests/utils-tests.py
+utils/__init__.py
+utils/moduleLogger.py
