@@ -1,4 +1,4 @@
 [console_scripts]
 app2 = app2.__main__:main
-convert_num = convert_num.__main__:main
+convertnum = convertnum.__main__:main
 
